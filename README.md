@@ -1,6 +1,6 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg?fj=1)](https://onyeka-embedded.io)
 <h1 align="center">Hi 👋, I'm Onyeka Ekwunife</h1>
-<h3 align="center">A passionate Embedded system developer || Flutter || Django beginner </h3>
+<h3 align="center">A passionate Embedded Systems Developer || Flutter || Django beginner </h3>
 <img align="right" alt="Coding" width="400" src="https://www.nicepng.com/png/full/11-113332_picture-black-and-white-laptop-monitors-personal-clip.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onyeka-embedded&label=Profile%20views&color=0e75b6&style=flat" alt="onyeka-embedded" /> </p>
