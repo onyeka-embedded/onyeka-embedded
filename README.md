@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/onyekachris15" target="blank"><img src="https://img.shields.io/twitter/follow/onyekachris15?logo=twitter&style=for-the-badge" alt="onyekachris15" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
-
 - 💬 Ask me about **Embedded system, django, devops, cloud, aws**
 
 - 📫 How to reach me **ekwunifechris7@gmail.com**
